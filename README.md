@@ -3,6 +3,8 @@
 
 imagem
 
+## Sobre nossa empresa
+
 ## Objetivos
 
 ## Linguagens
@@ -10,3 +12,5 @@ imagem
 ## Integrantes
 
 ## Redes Sociais
+
+## Manual de Instruções
