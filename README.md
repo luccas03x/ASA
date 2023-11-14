@@ -8,6 +8,11 @@ imagem
 ## Objetivos
 
 ## Integrantes
+Coordenadores do projeto:
+- Matheus Noronha
+- Gabriela Monden
+- Larissa Vasconcelos
+- Luccas Alberto
 
 ## Redes Sociais
 
