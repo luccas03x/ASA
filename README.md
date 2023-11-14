@@ -2,7 +2,7 @@
 <p align="center"><i>Automatic Security Access</i></p>
 
 <p align="center">
-  <img src="BANNER.png">
+  <img src="img/BANNER.png">
 </p>
 
 ## 📊 Sobre nossa empresa
@@ -26,5 +26,7 @@ Coordenadores do projeto:
 - Facebook: https://www.facebook.com/profile.php?id=100069575013947&locale=pt_BR
 
 ## Manual de Instruções
-Clique no ícone abaixo para fazer o download do Manual de instruções.
-<a href="Manual de Instrução - ASA.pdf" download="Manual de Instrução - ASA"><img src="img/manual.png" width="200" style="float:left"></a>
+<p>Clique no ícone abaixo para fazer o download do Manual de instruções.</p>
+<p>
+<a href="Manual de Instrução - ASA.pdf" download="Manual de Instrução - ASA"><img src="img/diskette.png" width="200" style="float:left"></a>
+</p>
