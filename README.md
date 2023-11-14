@@ -25,7 +25,7 @@ Coordenadores do projeto:
 - Instagram: https://www.instagram.com/empresa_asa/
 - Facebook: https://www.facebook.com/profile.php?id=100069575013947&locale=pt_BR
 
-## Manual de Instruções
+## 📋 Manual de Instruções
 <p>Clique no ícone abaixo para acessar o nosso Manual de instruções do Portão Automático:</p>
 <p>
 <a href="Manual de Instrução - ASA.pdf" download="Manual de Instrução - ASA"><img src="img/diskette.png" width="100" style="float:left"></a>
